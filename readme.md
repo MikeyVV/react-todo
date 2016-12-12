@@ -1,12 +1,8 @@
-#Timer App
+#React Boilderplate
 
-##What is it?
-**Timer is**
-* Web Application
-* Use React
-* SASS
+Ready
+* Foundation with SASS
 * jQuery
-* Webpack
-
-###Where?
-[See The App Here](http://sleepy-sierra-39103.herokuapp.com/)
+* Karma
+* mocha
+* expect
